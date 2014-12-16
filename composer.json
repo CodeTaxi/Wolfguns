@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bigcommerce/api": "~2.0",
+        "dg/ftp-php": "~1.1"
+    }
+}
